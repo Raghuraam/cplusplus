@@ -8,6 +8,8 @@ using namespace std;
 
 static int student_counter = 0;
 
+class Book;
+
 class Student
 {
     private:
