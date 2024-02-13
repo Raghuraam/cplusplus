@@ -36,7 +36,7 @@ int main()
 
 	printf("starting .... \n");
 	// open raw socket
-	sock_r=socket(AF_PACKET,SOCK_RAW,htons(ETH_P_ALL)); 
+	sock_r=socket(AF_PACKET,SOCK_RAW,htons(ETH_P_ALL)); // need sudo access
 	
 	while(1)
 	{
