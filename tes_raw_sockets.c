@@ -62,3 +62,47 @@ int main()
 		
 	}
 }
+
+/*
+Sample Output
+Packet 1
+
+
+
+Ethernet Header
+
+	|-Source Address	: 08-00-27-9E-C7-93
+
+	|-Destination Address	: 52-54-00-12-35-02
+
+	|-Protocol		: 8
+
+
+
+Packet 2
+
+
+
+Ethernet Header
+
+	|-Source Address	: 08-00-27-9E-C7-93
+
+	|-Destination Address	: 52-54-00-12-35-02
+
+	|-Protocol		: 8
+
+
+
+Packet 3
+
+
+
+Ethernet Header
+
+	|-Source Address	: 08-00-27-9E-C7-93
+
+	|-Destination Address	: 52-54-00-12-35-02
+
+	|-Protocol		: 8
+
+*/
